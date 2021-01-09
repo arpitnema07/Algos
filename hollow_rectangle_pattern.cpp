@@ -3,8 +3,8 @@ using namespace std;
 
 /*
     Print a hollow Rectangle.
-    eg ->
-         *****
+    
+    eg-> *****
          *   *
          *   *
          *   *

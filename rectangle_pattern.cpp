@@ -25,6 +25,13 @@ int main()
         cout <<endl;
         
     }
-    
+    /*
+        input - 3 4
+        output- ****
+                ****    
+                ****
+                ****
+     */
+     
     return 0;
 }
